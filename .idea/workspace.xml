@@ -37,6 +37,8 @@
     "Python.map_filter_lambda.executor": "Run",
     "Python.test.executor": "Run",
     "Python.threeCupMonte.executor": "Run",
+    "Python.tictactoe.executor": "Run",
+    "Python.userInteraction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -46,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\4. Milestone Project 1" />
       <recent name="D:\python" />
     </key>
   </component>
