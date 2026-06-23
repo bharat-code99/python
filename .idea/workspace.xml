@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ac7c64-b767-4009-bc1a-30735d6dcd07" name="Changes" comment="" />
+    <list default="true" id="1c720923-a749-4959-9244-52572daf9d5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +10,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/functions.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="34keFnZUcu0duhTCYKbuc6hhBZS" />
+  <component name="ProjectId" id="3ER4ljWsyH2yEdZnwIxB9fb7Tbx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,34 +27,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.args_kwargs.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.global.executor": "Run",
-    "Python.map_filter_lambda.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.threeCupMonte.executor": "Run",
-    "Python.tictactoe.executor": "Run",
-    "Python.userInteraction.executor": "Run",
+    "Python.basicClass.executor": "Run",
+    "Python.classMethods.executor": "Run",
+    "Python.homework.executor": "Run",
+    "Python.inheritence.executor": "Run",
+    "Python.polymorphismAbstract.executor": "Run",
+    "Python.specialMethods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/python",
+    "last_opened_file_path": "D:/python/5. Object Oriented Programming",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python\4. Milestone Project 1" />
-      <recent name="D:\python" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\5. Object Oriented Programming" />
     </key>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2ac7c64-b767-4009-bc1a-30735d6dcd07" name="Changes" comment="" />
-      <created>1761761896546</created>
+      <changelist id="1c720923-a749-4959-9244-52572daf9d5f" name="Changes" comment="" />
+      <created>1780128202927</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761761896546</updated>
+      <updated>1780128202927</updated>
     </task>
     <servers />
   </component>
